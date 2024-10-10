@@ -9,3 +9,7 @@ You can install this package using Go modules:
 ```bash
 go get github.com/jeevanism/govuk-bank-holidays
 ```
+
+# License
+
+This project is licensed under the MIT License
